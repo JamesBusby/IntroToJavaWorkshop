@@ -4,7 +4,7 @@ import java.awt.Color;
 import org.jointheleague.graphical.robot.Robot;
 
 public class MyFirstJavaProgram {
-	 Robot steve = new Robot("batman");
+	 static Robot steve = new Robot("batman");
 	
 	
 	 public static void main(String[] args) {
